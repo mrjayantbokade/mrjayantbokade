@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Jayant Bokade</h1>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.linkedin.com/in/jayantbokade09/)
+# Hello World, I'm [Jayant Bokade](https://www.linkedin.com/in/jayantbokade09/)
 <h3 align="center">A aspiring developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrjayantbokade&label=Profile%20views&color=0e75b6&style=flat" alt="mrjayantbokade" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrjayantbokade" alt="mrjayantbokade" /></a> </p>
+<p align="right">
+<img height="400"  alt="coding"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+</p>
 
 - 🔭 I’m currently practising **Data Structures and Algorithms**
 
@@ -12,6 +14,9 @@
 - 💬 Ask me about **Android, Python, Java**
 
 - 📫 How to reach me **mrjayant81@gmail.com**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
