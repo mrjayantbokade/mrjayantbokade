@@ -2,9 +2,9 @@
 # Hello World, I'm [Jayant Bokade](https://www.linkedin.com/in/jayantbokade09/)
 <h3 align="center">A aspiring developer from India</h3>
 
-
-<img  align=" left"height="400"  alt="coding"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
+<p align="right">
+<img  height="600"  alt="coding"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+</p>
 
 - 🔭 I’m currently practising **Data Structures and Algorithms**
 
