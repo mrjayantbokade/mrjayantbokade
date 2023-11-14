@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently practising **Data Structures and Algorithms**
 
-- 🌱 I’m currently learning **Flutter**
-
 - 💬 Ask me about **Android, Python, Java**
 
 - 📫 How to reach me **mrjayant81@gmail.com**
