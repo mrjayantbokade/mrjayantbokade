@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently practising **Data Structures and Algorithms**
 
-- 💬 Ask me about **Android, Python, Java**
+- 💬 Ask me about **JAVA, WEBDEV**
 
 - 📫 How to reach me **mrjayant81@gmail.com**
 
