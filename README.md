@@ -6,7 +6,6 @@
 <img  height="900"  alt="coding"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 </p>
 
-- 📫 How to reach me **mrjayant81@gmail.com**
 
 
 <!--
